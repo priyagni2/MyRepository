@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    android:layout_height="fill_parent"
+    android:background="#aabb66"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<android.support.v4.app.FragmentManager>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.priyasingh.fragment1.MainActivity">
+
+   <fragment android:layout_height="150dp"
+        android:id="@+id/frag1"
+       android:layout_width="fill_parent"
+       android:background="#ffe81e6d"
+       android:name="com.example.priyasingh.fragment1.Fragment1"
+        />
+
+
+    <fragment android:layout_height="150dp"
+        android:id="@+id/frag2"
+        android:layout_width="fill_parent"
+        android:background="#fff27f2a"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/frag1"
+        android:name="com.example.priyasingh.fragment1.Fragment2"
+         />
+    <fragment android:layout_height="150dp"
+         android:id="@+id/frag3"
+        android:layout_width="fill_parent"
+        android:background= "#88f22a"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/frag2"
+        android:name="com.example.priyasingh.fragment1.Fragment3"
+        />
+    <fragment android:layout_height="150dp"
+        android:id="@+id/frag4"
+        android:layout_width="fill_parent"
+        android:background="#ffe8321d"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/frag3"
+        android:name="com.example.priyasingh.fragment1.Fragment4"
+         />
+    <fragment android:layout_height="150dp"
+        android:id="@+id/frag5"
+        android:layout_width="fill_parent"
+        android:background="#fff27f8a"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/frag4"
+        android:name="com.example.priyasingh.fragment1.Fragment5"
+        />
+
+</RelativeLayout>
+    </android.support.v4.app.FragmentManager>
+    </android.support.v4.widget.NestedScrollView>
