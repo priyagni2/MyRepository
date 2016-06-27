@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Priya.Singh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1-8cf6eb4c174e7827f2862ee6e58e971bb9cf19a3.jar" />
+    </item>
+    <item
+        jar="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\exploded-aar\GetDisciplined-master\seekArc_library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="602fa6658d4f919c4ecbfb72b269e229d5f3fbba">
+        <dex dex="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\pre-dexed\debug\classes-911c8e644c038f5d51c3ce4406db125457e5bb0d.jar" />
+    </item>
+    <item
+        jar="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\pre-dexed\debug\classes-9857ed5a940b0b8278f4deb0c16be5449b7b5374.jar" />
+    </item>
+    <item
+        jar="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1-aaeb7352d6472b0b8c1d0666bc418a05d4a130d9.jar" />
+    </item>
+    <item
+        jar="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="D:\Studio Projects\GetDisciplined-master\app\build\intermediates\pre-dexed\debug\classes-d4bf2830c830c587cb2ab2aebfe9e0bbd335392e.jar" />
+    </item>
+
+</items>
