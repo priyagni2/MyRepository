@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'HMDashboard'" />
-    <option name="defaultScopeName" value="Project 'HMDashboard'" />
-    <option name="SEARCH_SCOPE" value="Project 'HMDashboard'" />
+    <option name="customScope" value="Project 'HelloWord'" />
+    <option name="defaultScopeName" value="Project 'HelloWord'" />
+    <option name="SEARCH_SCOPE" value="Project 'HelloWord'" />
   </component>
 </application>
