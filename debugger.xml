@@ -1,8 +1,0 @@
-<application>
-  <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
-    <general />
-  </component>
-</application>

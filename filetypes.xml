@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="otf" type="PLAIN_TEXT" />
-      <mapping ext="arsc" type="Properties" />
-    </extensionMap>
-  </component>
-</application>
