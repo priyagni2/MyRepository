@@ -63,4 +63,12 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp" />
+        <option value="http://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp/" />
+      </list>
+    </option>
+  </component>
 </application>
