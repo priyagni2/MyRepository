@@ -64,8 +64,14 @@
     </filter>
   </component>
   <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp/" />
+      </list>
+    </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp/" />
         <option value="http://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp" />
         <option value="http://svn.happiestminds.com/svn/spe_mobility/solutions/SmartEnterpriseApp/" />
       </list>
